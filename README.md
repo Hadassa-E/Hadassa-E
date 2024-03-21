@@ -1,4 +1,4 @@
-<img src="https://github.com/Hadassa-E/Hadassa-E/blob/main/Black%20Modern%20Marketing%20Banner.png">
+<img src="https://github.com/Hadassa-E/Hadassa-E/blob/main/Black%20Modern%20Marketing%20Banner.gif">
 
 # Hi there, I'm Hadassa Eliasian! 👋
 

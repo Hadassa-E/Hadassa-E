@@ -6,13 +6,13 @@ I'm a software engineering certificate graduate from the Ministry of Education, 
 
 ## About Me
 
-- 🎓 Graduated with a software engineering certificate from the Ministry of Education.
-- 📚 Currently studying towards a Bachelor's degree in Computer Science at The Open University.
+- 🎓 Graduated with a software engineering certificate from the Ministry of Education
+- 📚 Currently studying towards a Bachelor's degree in Computer Science at The Open University
 
 ## Get in Touch
 
-- 📫 You can reach me via [email](mailto:hadassa8924@gmail.com).
-- 💼 [LinkedIn](https://www.linkedin.com/in/hadassa-e/).
+- 📫 You can reach me via [email](mailto:hadassa8924@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hadassa-e/)
 
 ## Thanks for visiting!
 
